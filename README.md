@@ -1,2 +1,2 @@
 # Scripts
-Here are some Scripts i made
+Here you can find some helpful Scripts i made.
